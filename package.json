@@ -1,0 +1,19 @@
+{
+  "name": "rage-download-site",
+  "version": "1.0.0",
+  "description": "Basic Site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.6",
+    "node-get-time": "^1.1.0"
+  },
+  "engines": {
+    "node": "12.11.1"
+  }
+}
