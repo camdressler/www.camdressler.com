@@ -2,7 +2,7 @@
   "name": "camdressler.com",
   "version": "1.0.0",
   "description": "A personal site for Cam Dressler",
-  "main": "index.js",
+  "main": "public/index.html",
   "repository": "https://github.com/camdressler/camdressler.com.git",
   "author": "Cam <ceys777@gmail.com>",
   "license": "MIT"
