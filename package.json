@@ -2,12 +2,13 @@
   "name": "camdressler.com",
   "version": "1.0.0",
   "description": "A personal site for Cam Dressler",
-  "main": "public/index.html",
   "repository": "https://github.com/camdressler/camdressler.com.git",
   "author": "Cam <ceys777@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "next"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p $PORT"
   },
   "dependencies": {
     "next": "^12.0.7",
